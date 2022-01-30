@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserIn1", "UserIn1\UserIn1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserIn2", "UserIn2\UserIn2.csproj", "{B2F91DAE-F81B-468B-9651-EA7E4FB69B6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindingDemo", "DataBindingDemo\DataBindingDemo.csproj", "{A453DE58-F526-4815-90CC-620F6BEB34FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B2F91DAE-F81B-468B-9651-EA7E4FB69B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2F91DAE-F81B-468B-9651-EA7E4FB69B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2F91DAE-F81B-468B-9651-EA7E4FB69B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A453DE58-F526-4815-90CC-620F6BEB34FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A453DE58-F526-4815-90CC-620F6BEB34FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A453DE58-F526-4815-90CC-620F6BEB34FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A453DE58-F526-4815-90CC-620F6BEB34FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
