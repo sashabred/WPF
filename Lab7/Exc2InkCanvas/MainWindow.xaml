@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Exc2InkCanvas"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="InkPad" Height="550" Width="370" Background="LightGray">
     <Grid>
+
+        <InkCanvas x:Name="inkCanvas1" Background="LightYellow">
+        </InkCanvas>
+        <Button Content="Clear" Height="35" Width="68" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,-1,0,0" Click="Button_Click" RenderTransformOrigin="0.799,0.94"/>
+        <Button Content="Close" HorizontalAlignment="Right" Margin="0,-2,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.452,-0.569" Height="37" Width="59" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
