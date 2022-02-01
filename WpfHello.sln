@@ -27,9 +27,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab4", "Lab4", "{1A05AD95-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab7", "Lab7", "{5B531A79-47BD-4E4F-A44D-FA72954312F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exc1WpfApplicationPolygon", "Exc1WpfApplicationPolygon\Exc1WpfApplicationPolygon.csproj", "{D0BEC359-A7FA-4B40-8953-39927825C01F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exc1WpfApplicationPolygon", "Lab7\Exc1WpfApplicationPolygon\Exc1WpfApplicationPolygon.csproj", "{D0BEC359-A7FA-4B40-8953-39927825C01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exc2InkCanvas", "Exc2InkCanvas\Exc2InkCanvas.csproj", "{B04C6851-AD5C-4EFC-A210-02F5F2396671}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exc2InkCanvas", "Lab7\Exc2InkCanvas\Exc2InkCanvas.csproj", "{B04C6851-AD5C-4EFC-A210-02F5F2396671}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
