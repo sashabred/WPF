@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfHello", "WpfHello\WpfHello.csproj", "{321020B5-624B-4E42-9C6E-7F417AB663BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfHello", "Lab1\WpfHello\WpfHello.csproj", "{321020B5-624B-4E42-9C6E-7F417AB663BC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfHelloNav", "WpfHelloNav\WpfHelloNav.csproj", "{DC5F0E9C-CF88-429E-B145-B4EA67D536EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfHelloNav", "Lab1\WpfHelloNav\WpfHelloNav.csproj", "{DC5F0E9C-CF88-429E-B145-B4EA67D536EA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfRoutedEvent_2_1", "WpfRoutedEvent_2_1\WpfRoutedEvent_2_1.csproj", "{A4C64C0D-3968-4F06-ADCA-3FA7499BD825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfRoutedEvent_2_1", "Lab2\WpfRoutedEvent_2_1\WpfRoutedEvent_2_1.csproj", "{A4C64C0D-3968-4F06-ADCA-3FA7499BD825}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfRoutedEvent_2_2", "WpfRoutedEvent_2_2\WpfRoutedEvent_2_2.csproj", "{00563B0C-1CA9-44BE-8D1A-A8C26BD4D033}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfRoutedEvent_2_2", "Lab2\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2.csproj", "{00563B0C-1CA9-44BE-8D1A-A8C26BD4D033}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserIn1", "UserIn1\UserIn1.csproj", "{D4A0F342-4D81-454E-B78B-0192A2F28C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserIn1", "Lab4\UserIn1\UserIn1.csproj", "{D4A0F342-4D81-454E-B78B-0192A2F28C14}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserIn2", "UserIn2\UserIn2.csproj", "{B2F91DAE-F81B-468B-9651-EA7E4FB69B6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserIn2", "Lab4\UserIn2\UserIn2.csproj", "{B2F91DAE-F81B-468B-9651-EA7E4FB69B6D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBindingDemo", "DataBindingDemo\DataBindingDemo.csproj", "{A453DE58-F526-4815-90CC-620F6BEB34FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBindingDemo", "Lab9\DataBindingDemo\DataBindingDemo.csproj", "{A453DE58-F526-4815-90CC-620F6BEB34FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{DCA6103B-1231-4274-99FA-1553AD692926}"
 EndProject
